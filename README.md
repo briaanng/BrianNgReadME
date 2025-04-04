@@ -42,7 +42,7 @@
 ---
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOURUSERNAME)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/brian-ng05/)  
 - 📧 Email: briannng.cyber@gmail.com *(or your preferred one)*  
 - 🧠 Portfolio: Coming soon to GitHub Pages!
 
